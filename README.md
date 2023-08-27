@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trenton Fisher</h1>
 <h3 align="center">I Am Currently A Fourth Year Student At Oregon State University Studying Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trenton1fisher&label=Profile%20views&color=0e75b6&style=flat" alt="trenton1fisher" /> </p>
+<p align="left"> <img src="https://dribbble.com/shots/5487982-Developers-Gif?utm_source=Clipboard_Shot&utm_campaign=teckartist&utm_content=Developers%20Gif&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=teckartist&utm_content=Developers%20Gif&utm_medium=Social_Share" /> </p>
 
 - 🔭 I’m currently working on an [Ecommerce Site](https://ecommerce-tawny-sigma.vercel.app/)
 
