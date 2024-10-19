@@ -40,4 +40,32 @@
 
 <!-- Contacts -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5A2E91?style=flat&logo=linkedin&logoColor=white&color=5A2E91)](https://www.linkedin.com/in/trentonfisher)
+
+## 🛠️ Featured Projects
+
+### Project Name 1
+- **Description:** A brief overview of what the project does and its purpose.
+- **Technologies:** JavaScript, React, Node.js
+- **GitHub Repo:** [link to the repo](https://github.com/yourusername/project1)
+- **Live Demo:** [link to the demo](https://yourproject1live.com)
+- ![Project 1 Screenshot](https://linktoimage.com/image1.png)
+
+---
+
+### Project Name 2
+- **Description:** A brief overview of what the project does and its purpose.
+- **Technologies:** Python, Flask, PostgreSQL
+- **GitHub Repo:** [link to the repo](https://github.com/yourusername/project2)
+- **Live Demo:** [link to the demo](https://yourproject2live.com)
+- ![Project 2 Screenshot](https://linktoimage.com/image2.png)
+
+---
+
+### Project Name 3
+- **Description:** A brief overview of what the project does and its purpose.
+- **Technologies:** Java, Spring Boot, MySQL
+- **GitHub Repo:** [link to the repo](https://github.com/yourusername/project3)
+- **Live Demo:** [link to the demo](https://yourproject3live.com)
+- ![Project 3 Screenshot](https://linktoimage.com/image3.png)
+
 [![Email](https://img.shields.io/badge/Email-A41E27?style=flat&logo=gmail&logoColor=white&color=A41E27)](mailto:trenton0fisher@gmail.com)
