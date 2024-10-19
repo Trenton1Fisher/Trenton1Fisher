@@ -12,7 +12,6 @@
 ![Java](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=7B2BB1) 
 ![C](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c&logoColor=white&color=7B2BB1) 
 ![C++](https://img.shields.io/badge/Code-c%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=7B2BB1)
-
 <!-- Frontend Technologies -->
 ### Frontend
 ![HTML5](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=7B2BB1) 
@@ -20,21 +19,17 @@
 ![React](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=7B2BB1) 
 ![Next.js](https://img.shields.io/badge/Tools-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=7B2BB1) 
 ![Angular](https://img.shields.io/badge/Tools-Angular-informational?style=flat&logo=angular&logoColor=white&color=7B2BB1) 
-
 <!-- Backend Technologies -->
 ### Backend
 ![Node.js](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=7B2BB1) 
 ![Spring Boot](https://img.shields.io/badge/Tools-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=7B2BB1) 
-
 <!-- Databases -->
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=7B2BB1) 
 ![SQLite](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=7B2BB1) 
-
 <!-- Version Control -->
 ### Version Control
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=github&logoColor=white&color=7B2BB1)
-
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
 
