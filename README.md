@@ -11,14 +11,8 @@
 <!-- ![Linux](https://img.shields.io/badge/OS-Linux%20Manjaro-informational?style=flat&logo=linux&logoColor=white&color=ff69b4) -->
 <!-- ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff69b4) -->
 
-
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4)
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=ff69b4)
-![PyTest](https://img.shields.io/badge/Tools-pytest-informational?style=flat&logo=pytest&logoColor=white&color=ff69b4)
-![Selenium](https://img.shields.io/badge/Tools-selenium-informational?style=flat&logo=selenium&logoColor=white&color=ff69b4)
-<!-- ![django](https://img.shields.io/badge/Tools-django-informational?style=flat&logo=django&logoColor=white&color=ff69b4x) -->
-
 <!-- Languages -->
+### Languages
 ![HTML5](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=ff69b4) 
 ![CSS3](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=ff69b4) 
 ![JavaScript](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=ff69b4) 
