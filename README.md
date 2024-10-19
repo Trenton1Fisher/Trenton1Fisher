@@ -1,66 +1,21 @@
-<h1>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hey! I'm Trenton Fisher
-</h1>
+<h1 align="center">Hi 👋, I'm Trenton Fisher</h1>
+<h3 align="center">I Am Currently A Fourth Year Student At Oregon State University Studying Computer Science</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2BB1&multiline=true&width=435&height=60&lines=Full+Stack+Software+Engineer.)](https://git.io/typing-svg)
+- 🔭 I’m currently working on a Product Management Site Leverage Angular and Java
 
-<!-- Languages -->
-### Languages
-![JavaScript](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=7B2BB1) 
-![TypeScript](https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=7B2BB1) 
-![Java](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=7B2BB1) 
-![C](https://img.shields.io/badge/Code-c-informational?style=flat&logo=c&logoColor=white&color=7B2BB1) 
-![C++](https://img.shields.io/badge/Code-c%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=7B2BB1)
-<!-- Frontend Technologies -->
-### Frontend
-![HTML5](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=7B2BB1) 
-![CSS3](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=7B2BB1) 
-![React](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=7B2BB1) 
-![Next.js](https://img.shields.io/badge/Tools-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=7B2BB1) 
-![Angular](https://img.shields.io/badge/Tools-Angular-informational?style=flat&logo=angular&logoColor=white&color=7B2BB1) 
-<!-- Backend Technologies -->
-### Backend
-![Node.js](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=7B2BB1) 
-![Spring Boot](https://img.shields.io/badge/Tools-Spring%20Boot-informational?style=flat&logo=spring&logoColor=white&color=7B2BB1) 
-<!-- Databases -->
-### Databases
-![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=7B2BB1) 
-![SQLite](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=7B2BB1) 
-<!-- Version Control -->
-### Version Control
-![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=github&logoColor=white&color=7B2BB1)
+- 🌱 I’m currently learning: <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
+- 👨‍💻 All of my projects are available at [https://www.trentonfisher.xyz](https://www.trentonfisher.xyz)
 
-<!-- Contacts -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5A2E91?style=flat&logo=linkedin&logoColor=white&color=5A2E91)](https://www.linkedin.com/in/trentonfisher)
+- 📫 How to reach me **trenton0fisher@gmail.com**
 
-## 🛠️ Featured Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### Project Name 1
-- **Description:** A brief overview of what the project does and its purpose.
-- **Technologies:** JavaScript, React, Node.js
-- **GitHub Repo:** [link to the repo](https://github.com/yourusername/project1)
-- **Live Demo:** [link to the demo](https://yourproject1live.com)
-- ![Project 1 Screenshot](https://linktoimage.com/image1.png)
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trenton1fisher&show_icons=true&locale=en&layout=compact" alt="trenton1fisher" /></p>
 
-### Project Name 2
-- **Description:** A brief overview of what the project does and its purpose.
-- **Technologies:** Python, Flask, PostgreSQL
-- **GitHub Repo:** [link to the repo](https://github.com/yourusername/project2)
-- **Live Demo:** [link to the demo](https://yourproject2live.com)
-- ![Project 2 Screenshot](https://linktoimage.com/image2.png)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trenton1fisher&show_icons=true&locale=en" alt="trenton1fisher" /></p>
 
----
-
-### Project Name 3
-- **Description:** A brief overview of what the project does and its purpose.
-- **Technologies:** Java, Spring Boot, MySQL
-- **GitHub Repo:** [link to the repo](https://github.com/yourusername/project3)
-- **Live Demo:** [link to the demo](https://yourproject3live.com)
-- ![Project 3 Screenshot](https://linktoimage.com/image3.png)
-
-[![Email](https://img.shields.io/badge/Email-A41E27?style=flat&logo=gmail&logoColor=white&color=A41E27)](mailto:trenton0fisher@gmail.com)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trenton1fisher&" alt="trenton1fisher" /></p>
