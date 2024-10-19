@@ -3,7 +3,7 @@
   Hey! I'm Trenton Fisher
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&multiline=true&width=435&height=60&lines=Full+Stack%2C+I'm+Tokha.;Python-Developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&multiline=true&width=435&height=60&lines=Full+Stack+Software+Engineer.)](https://git.io/typing-svg)
 
 
 ## 🔧 Technologies & Tools
