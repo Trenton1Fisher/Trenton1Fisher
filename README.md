@@ -5,16 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&multiline=true&width=435&height=60&lines=Full+Stack+Software+Engineer.)](https://git.io/typing-svg)
 
-
-## 🔧 Technologies & Tools
-<!-- OS -->
-<!-- ![Linux](https://img.shields.io/badge/OS-Linux%20Manjaro-informational?style=flat&logo=linux&logoColor=white&color=ff69b4) -->
-<!-- ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=ff69b4) -->
-
 <!-- Languages -->
 ### Languages
-![HTML5](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=ff69b4) 
-![CSS3](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=ff69b4) 
 ![JavaScript](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=ff69b4) 
 ![TypeScript](https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=ff69b4) 
 ![Java](https://img.shields.io/badge/Code-java-informational?style=flat&logo=java&logoColor=white&color=ff69b4) 
@@ -45,18 +37,10 @@
 
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Connect With Me
+
 <!-- Contacts -->
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&color=229ED9)](https://t.me/Mitroll)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white&color=C13584)](https://www.instagram.com/t1roller)
-[![VK](https://img.shields.io/badge/VK-%232E87FB.svg?style=flat&logo=vk&logoColor=white&color=229ED9)](https://vk.com/trhun)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white&color=7289DA)](https://discordapp.com/users/648933636820959255)
-<!-- [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=flat&logo=Skype&logoColor=white&color=009EDC)](https://join.skype.com/invite/JedhTjytbGNp) -->
-<!-- ![](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white&color=4A154B) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&color=0077B5)](https://www.linkedin.com/in/trentonfisher)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&color=D14836)](mailto:trenton0fisher@gmail.com)
 
-## &#x1f4c8; Stats
-[![](https://www.codewars.com/users/M1troll/badges/micro)](https://www.codewars.com/users/M1troll)
-![](https://visitor-badge.glitch.me/badge?page_id=M1troll.M1troll&left_text=Visitors&right_color=%23ff69b4)
 
-<a href="https://github.com/M1troll/M1troll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=M1troll&show_icons=true&line_height=27&theme=radical" alt="GitHub Stats"/>
-</a>
+
