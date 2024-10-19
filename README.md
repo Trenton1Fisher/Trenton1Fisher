@@ -2,7 +2,9 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey! I'm Trenton Fisher
 </h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2BB1&multiline=true&width=435&height=60&lines=Full+Stack+Software+Engineer.)](https://git.io/typing-svg)
+
 <!-- Languages -->
 ### Languages
 ![JavaScript](https://img.shields.io/badge/Code-javascript-informational?style=flat&logo=javascript&logoColor=white&color=7B2BB1) 
