@@ -25,11 +25,11 @@
 <!-- ![html5](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=ff69b4) -->
 <!-- ![css3](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=ff69b4) -->
 
-<!-- Tools -->
-<!-- ![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ff69b4) -->
-<!-- ![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ff69b4) -->
+ Tools
+![PostgreSQL](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ff69b4) 
+ ![MySQL](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=ff69b4)
 <!-- ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=ff69b4) -->
-<!-- ![GitHub](https://img.shields.io/badge/Tools-github-informational?style=flat&logo=github&logoColor=white&color=ff69b4x) -->
+ ![Git](https://img.shields.io/badge/Tools-git-informational?style=flat&logo=github&logoColor=white&color=ff69b4x) 
 <!-- ![GitLab](https://img.shields.io/badge/Tools-gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=ff69b4x) -->
 
 <!-- IDEs -->
