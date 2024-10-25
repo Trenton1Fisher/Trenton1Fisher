@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trenton Fisher</h1>
 <h3 align="center">I Am A Recent Computer Science Graduate From Oregon State Open For Work</h3>
 
-- 🔭 I’m currently working on a Writing Tests For all my current portfolio project
+- 🔭 I’m currently working on 2d platformer game for the web using React, Typescript, Java 17, Springboot
 
 🌱 I’m currently learning:
 <p align="left"> 
