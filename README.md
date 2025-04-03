@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trenton Fisher</h1>
 <h3 align="center">I Am A Recent Computer Science Graduate From Oregon State Open For Work</h3>
 
-- 🔭 I’m currently working on a Tee Time Booking platform for the web using React, Typescript, and Django
+- 🔭 I’m currently working on a expanding the test coverage on my main personal projects.
 
 🌱 I’m currently learning:
 <p align="left"> 
