@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trenton Fisher</h1>
 <h3 align="center">I Am A Recent Computer Science Graduate From Oregon State Open For Work</h3>
 
-- 🔭 I’m currently working on a expanding the test coverage on my main personal projects.
+- 🔭 I’m currently working on a Tee Time Booking Full Stack Website where users can join, add, and schedule tee times with 1-4 players. Included is an admin panel and employee portal to adjust course details such as tee time start and end times, seasonal costs, and tee time intervals.
 
 🌱 I’m currently learning:
 <p align="left"> 
